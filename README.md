@@ -84,3 +84,22 @@ Anton https://fonts.google.com/specimen/Anton?preview.text=Biryani
 }
 
 ---------------------------------
+"nobell" (handwritten/script style):
+
+Closest match: A casual brush script font like Pacifico or SignPainter. It has a playful, handwritten aesthetic with varying thickness.
+"FARM FRESH ANIMAL FREE CHEESE" (blocky, bold sans-serif):
+
+Closest match: A chunky, retro-style sans-serif font such as Cooper Black or Poppins Extra Bold, modified to have a more hand-drawn feel.
+"CREATE" (bold with a distressed effect):
+
+Closest match: A heavy sans-serif font with a slightly weathered or distressed overlay, similar to Impact or Bebas Neue, customized for the texture.
+"DOOOOZY," "MELLTYYY," "STRETCHY" (outlined, playful sans-serif):
+
+Closest match: An outlined sans-serif font with a retro look like Blenda Outlined or Balgin Outline, customized for a quirky aesthetic.
+"Join the Waitlist" (button text):
+
+Closest match: A clean and narrow sans-serif font like Arial Narrow or Helvetica Condensed.
+"COMING SOON" (footer text):
+
+Closest match: A classic sans-serif font like Futura or Avenir in uppercase and a lighter weight.
+-------------------------------------
