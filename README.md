@@ -121,15 +121,6 @@ Layering: In a pot, layer partially cooked rice over the beef mixture, adding sa
 Dum Cooking: Seal the pot to allow flavors to meld through steam cooking (dum).
 Biryani is not just a meal; it’s a culinary experience that brings people together during celebrations.
 
-Favorite Colors: Green and Blue
-Symbolism of Green
-Nature: Green represents life, renewal, and energy. It is often associated with growth and harmony.
-Calmness: The color has a calming effect on the mind and body, promoting relaxation.
-Symbolism of Blue
-Stability: Blue signifies trust, loyalty, and wisdom. It is often linked to depth and stability.
-Peacefulness: This color evokes feelings of tranquility and serenity.
-Both colors are commonly found in nature (e.g., forests for green and skies or oceans for blue), making them popular choices for personal expression and design.
-
 Favorite Flowers: Peonies, Tulips, and Lilies
 Peonies
 Description: Peonies are lush flowers known for their large blooms and fragrant scent. They come in various colors including pink, white, and red.
